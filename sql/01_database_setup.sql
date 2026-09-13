@@ -1,0 +1,2 @@
+-- Database setup
+-- Project: E-Commerce Customer & Sales Analytics
